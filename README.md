@@ -3,7 +3,7 @@
 
 ```
 클라이언트 사이드 개발로 시작하여 서비스 개발을 거쳐 플랫폼을 개발하고 있습니다.
-데이터를 다루는 일에 흥미가 있습니다, 데이터는 수집되고 가공되어 사용되어야 한다고 생각합니다.
+데이터를 다루는 일에 흥미가 있습니다. 데이터는 수집되고 가공되어, 필요한 곳에서 사용되어야 한다고 생각합니다.
 트러블슈팅을 좋아합니다.
 상황이 허락해 준다면 손으로 하는 개발을 선호합니다.
 ```
@@ -23,39 +23,48 @@
 
 ## 개선 / 문제해결
 * elasticsearch 1.7 버전에서 7.x 버전으로 업그레이드
-* 전사 품질 지표 리포트 집계 및 미터링 정합성 검증 집계 
-* 사용자 인증 분리 구성
-* 컴플라이언스 목적 hdfs 에 보관된 데이터의 무결성을 확인 및 검증
+* 전사 품질 지표 리포트
+* 미터링 정합성 집계 및 검증 
+* 웹서버 사용자 인증 분리 구성
+* 컴플라이언스 목적 hdfs 에 보관된 데이터의 무결성 확인 및 검증
 * 사용자의 데이터를 보관할 수 있도록 S3 연동 기능 개발
+* 플랫폼 모니터링
 
 ## 담당하면서 사용한 기술
 * java, javascript
-* spring, node.js, vue.js
-* kafka, elastic stack, mongodb, redis, cubrid, mysql
+* spring(webmvc, webflux, data, cloud), node.js(express), vue.js
+* kafka, elastic stack, mongodb(shard, replica), redis(replica), cubrid, mysql
 * graphite, promethues, grafana
 * maven, gradle
+* nginx, apache, tomcat
 
 ## POC/사용자로서 접한 기술
 * docker, kubernetes
 * python, perl, ruby
 * hadoop eco system
+   * cdh (cloudera hadoop)
+   * hue
+   * hdfs
+   * hive
+   * impala
+   * spark(pyspark)
+* ngrinder / groovy
 
 # 서비스개발, NHN Entertainment, AMP개발TF
 * 2017.07.01. ~ 2017.11.15.
 
 ## 프로젝트
 * AMP - 동영상(방송 클립) 플랫폼 및 커뮤니티 
-    * 프로젝트 드롭
+   * TF 초중반 전환배치
+   * 프로젝트 드롭
 
 ## 역할 / 담당
 * 공통 플랫폼 개발
     * 소셜 로그인, 회원 (payco, kakao, facebook)
     * 공통 인프라 산정 POC 및 구축
 
-## 기타
-* 프로젝트 초중반 전환배치
-
-## POC 혹은 사용자로서 접한 기술
+## 담당하면서 사용한 기술 및 POC 혹은 사용자로서 접한 기술
+* spring(webmvc, data)
 * redis cluster, mongodb, angular2, jpa, gradle
 
 # 서비스개발, NHN Entertainment, 티켓링크개발TF
@@ -82,12 +91,15 @@
 
 ## 담당하면서 사용한 기술
 * java, javascript, sql
-* spring, mybatis, jquery, angular 1
+* spring(webmvc, batch), mybatis, jquery, angular 1
 * cubrid, mysql
 * maven
+* apache, tomcat
+* confluent, jira
 
 ## POC/사용자로서 접한 기술
 * nbase-arc
+* ngrinder / groovy
 
 # 프레임워크개발, LG전자, MC사업본부
 * 2012.07.08. ~ 2014.05.21.

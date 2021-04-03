@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="8bDWJUJbWCNmJFw1qYA9WHQ5J_kE02pOf2ETi1PZDAk" />
-
 # 오희준 heejun.oh
 * xephysis@gmail.com
 

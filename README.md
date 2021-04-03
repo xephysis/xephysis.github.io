@@ -36,6 +36,7 @@
 * kafka, elastic stack, mongodb(shard, replica), redis(replica), cubrid, mysql
 * graphite, promethues, grafana
 * maven, gradle
+* git
 * nginx, apache, tomcat
 
 ## POC/사용자로서 접한 기술
@@ -93,7 +94,7 @@
 * java, javascript, sql
 * spring(webmvc, batch), mybatis, jquery, angular 1
 * cubrid, mysql
-* maven
+* svn, git, maven
 * apache, tomcat
 * confluent, jira
 
@@ -115,6 +116,8 @@
 ## 사용 기술
 * java
 * android
+* git
+* confulent, jira
 
 # 학부, 아주대학교 정보및컴퓨터공학부
 * 2006.03.02. ~ 2012.08.17.

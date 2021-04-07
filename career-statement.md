@@ -19,7 +19,7 @@
 * ETL 상품
 
 ## 역할 / 담당
-* NHN Cloud Log & Crash Search(NELO2) 단독/메인 담당
+* NHN Cloud Log & Crash Search(NELO2) 단독 -> 메인 담당자
 * ETL 상품 컨셉 설계, POC 및 공통 모듈 개발
 
 ## 성과 / 소회
